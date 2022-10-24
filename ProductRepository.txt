@@ -1,0 +1,10 @@
+100;Dviračio rėmas;199,99
+101;Dviračio vairas;49,99
+102;Dviračio sėdynė;28,57
+103;Pedalai;19,47
+104;Grandinė;14,22
+105;Stabdžiai;25,15
+106;Pavarų rankenėlės;37,77
+107;Skambutis;2,99
+108;Pavarų žvaigždės;45,25
+109;Amortizatorius;99,99

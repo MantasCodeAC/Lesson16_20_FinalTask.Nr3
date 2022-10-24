@@ -1,0 +1,10 @@
+1000 Arielius 10
+1001 Brigita 20
+1002 Čarlzas 30
+1003 Deimantė 40
+1004 Eugenijus 50
+1005 Fėja 60
+1006 Gabrielius 70
+1007 Henrieta 80
+1008 Irmantas 90
+1009 Jurgita 100

@@ -1,0 +1,111 @@
+***** List Of Unpaid Orders *****/
+___________________________________________________________________________________________
+| OrderID | Date Of Order | Customer Name  |  Days to Pay  |  Products   | Price Of Order | 
+|    0    |  2022-08-08   |   Deimantė     |      -37      |      3      |      90,75     |
+____________________________________________
+This Order (ID 0) contains these products: 
+Product ID   Product Name         Product Price    
+101          Dviračio vairas      49,99  Eur.       
+106          Pavarų rankenėlės    37,77  Eur.       
+107          Skambutis            2,99   Eur.       
+END OF ORDER--------------------------------
+
+
+___________________________________________________________________________________________
+| OrderID | Date Of Order | Customer Name  |  Days to Pay  |  Products   | Price Of Order | 
+|    1    |  2022-08-27   |   Čarlzas      |      -28      |      1      |      49,99     |
+____________________________________________
+This Order (ID 1) contains these products: 
+Product ID   Product Name         Product Price    
+101          Dviračio vairas      49,99  Eur.       
+END OF ORDER--------------------------------
+
+
+___________________________________________________________________________________________
+| OrderID | Date Of Order | Customer Name  |  Days to Pay  |  Products   | Price Of Order | 
+|    2    |  2022-09-16   |   Deimantė     |      2        |      7      |      377,61    |
+____________________________________________
+This Order (ID 2) contains these products: 
+Product ID   Product Name         Product Price    
+105          Stabdžiai            25,15  Eur.       
+101          Dviračio vairas      49,99  Eur.       
+106          Pavarų rankenėlės    37,77  Eur.       
+103          Pedalai              19,47  Eur.       
+109          Amortizatorius       99,99  Eur.       
+109          Amortizatorius       99,99  Eur.       
+108          Pavarų žvaigždės     45,25  Eur.       
+END OF ORDER--------------------------------
+
+
+___________________________________________________________________________________________
+| OrderID | Date Of Order | Customer Name  |  Days to Pay  |  Products   | Price Of Order | 
+|    4    |  2022-10-17   |   Arielius     |      3        |      5      |      104,85    |
+____________________________________________
+This Order (ID 4) contains these products: 
+Product ID   Product Name         Product Price    
+106          Pavarų rankenėlės    37,77  Eur.       
+103          Pedalai              19,47  Eur.       
+103          Pedalai              19,47  Eur.       
+107          Skambutis            2,99   Eur.       
+105          Stabdžiai            25,15  Eur.       
+END OF ORDER--------------------------------
+
+
+___________________________________________________________________________________________
+| OrderID | Date Of Order | Customer Name  |  Days to Pay  |  Products   | Price Of Order | 
+|    5    |  2022-09-21   |   Brigita      |      -13      |      7      |      433,52    |
+____________________________________________
+This Order (ID 5) contains these products: 
+Product ID   Product Name         Product Price    
+101          Dviračio vairas      49,99  Eur.       
+109          Amortizatorius       99,99  Eur.       
+104          Grandinė             14,22  Eur.       
+107          Skambutis            2,99   Eur.       
+102          Dviračio sėdynė      28,57  Eur.       
+106          Pavarų rankenėlės    37,77  Eur.       
+100          Dviračio rėmas       199,99 Eur.       
+END OF ORDER--------------------------------
+
+
+___________________________________________________________________________________________
+| OrderID | Date Of Order | Customer Name  |  Days to Pay  |  Products   | Price Of Order | 
+|    6    |  2022-09-20   |   Gabrielius   |      36       |      5      |      143,73    |
+____________________________________________
+This Order (ID 6) contains these products: 
+Product ID   Product Name         Product Price    
+107          Skambutis            2,99   Eur.       
+101          Dviračio vairas      49,99  Eur.       
+107          Skambutis            2,99   Eur.       
+101          Dviračio vairas      49,99  Eur.       
+106          Pavarų rankenėlės    37,77  Eur.       
+END OF ORDER--------------------------------
+
+
+___________________________________________________________________________________________
+| OrderID | Date Of Order | Customer Name  |  Days to Pay  |  Products   | Price Of Order | 
+|    8    |  2022-08-15   |   Čarlzas      |      -40      |      6      |      482,36    |
+____________________________________________
+This Order (ID 8) contains these products: 
+Product ID   Product Name         Product Price    
+109          Amortizatorius       99,99  Eur.       
+109          Amortizatorius       99,99  Eur.       
+106          Pavarų rankenėlės    37,77  Eur.       
+105          Stabdžiai            25,15  Eur.       
+103          Pedalai              19,47  Eur.       
+100          Dviračio rėmas       199,99 Eur.       
+END OF ORDER--------------------------------
+
+
+___________________________________________________________________________________________
+| OrderID | Date Of Order | Customer Name  |  Days to Pay  |  Products   | Price Of Order | 
+|    9    |  2022-10-01   |   Arielius     |      -13      |      4      |      298,02    |
+____________________________________________
+This Order (ID 9) contains these products: 
+Product ID   Product Name         Product Price    
+100          Dviračio rėmas       199,99 Eur.       
+101          Dviračio vairas      49,99  Eur.       
+102          Dviračio sėdynė      28,57  Eur.       
+103          Pedalai              19,47  Eur.       
+END OF ORDER--------------------------------
+
+

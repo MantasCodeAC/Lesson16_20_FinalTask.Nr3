@@ -1,0 +1,12 @@
+***** List Of All Clients *****/
+ClientID     Client Name   Possible Delay   Active Orders     Is the client delayer?    
+  1000         Arielius         10          2(ID4)(ID9)       True                      
+  1001         Brigita          20          1(ID5)            True                      
+  1002         Čarlzas          30          2(ID1)(ID8)       True                      
+  1003         Deimantė         40          3(ID0)(ID2)(ID7)  True                      
+  1004         Eugenijus        50          1(ID3)            False                     
+  1005         Fėja             60          0                 False                     
+  1006         Gabrielius       70          1(ID6)            False                     
+  1007         Henrieta         80          0                 False                     
+  1008         Irmantas         90          0                 False                     
+  1009         Jurgita          100         0                 False                     
